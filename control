@@ -1,0 +1,10 @@
+Package: me.jkhsjdhjs.kleinanzeigen-share-url-only
+Name: Kleinanzeigen Share URL only
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: iOS tweak to remove any additional bullshit when sharing Kleinanzeigen items.
+Maintainer: jkhsjdhjs
+Author: jkhsjdhjs
+Homepage: https://github.com/jkhsjdhjs/kleinanzeigen-share-url-only
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
